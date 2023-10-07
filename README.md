@@ -1,2 +1,2 @@
 # qr-code-interface
-QR code scanning interface designed using HTML and CSS (Frontend mentor.io challenge)
+Front End Mentor Challange #1 - QR code scanning interface designed using HTML and CSS (Frontend mentor.io challenge)
